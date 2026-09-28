@@ -1,0 +1,3 @@
+DLP test sample (case t06). Target filename: sample.vbe
+Benign placeholder - no executable code, no PE header, no script logic.
+For authorized data-loss-prevention (DLP) file-classification / file-extension recognition and evasion testing only.
